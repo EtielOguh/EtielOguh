@@ -3,7 +3,7 @@
 # Welcome!
 ## I am a Computer Engineering student. I love coding and interacting with technology!
 
-- Currently on a Software Engineering Internship!
+- Currently studying systems analysis!
 - Improving my programming skills everyday
 
 <hr>
@@ -16,9 +16,9 @@
 
 ### :calling: Get in contact with me!
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusmpeixoto/)](https://www.linkedin.com/in/matheusmpeixoto/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hugodesouza-leite/)](https://www.linkedin.com/in/matheusmpeixoto/)
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mmpeixoto5@gmail.com)](mailto:hugodsleite@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hugodsleite@gmail.com)](mailto:hugodsleite@gmail.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=etieloguh&show_icons=true&theme=radical)
 
