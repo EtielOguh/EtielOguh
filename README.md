@@ -1,4 +1,4 @@
-![gif header]([https://media.giphy.com/media/VrtvDMP4ajo5y/giphy.gif](https://media1.tenor.com/m/kqFmo7xnLbkAAAAC/german-cano-cano.gif))
+![gif header](https://media.giphy.com/media/hC4ivYEwCLHCU/giphy.gif)
 
 # Welcome!
 ## I am a Computer Engineering student. I love coding and interacting with technology!
