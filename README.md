@@ -16,7 +16,7 @@
 
 ### :calling: Get in contact with me!
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hugodesouza-leite/)](https://www.linkedin.com/in/matheusmpeixoto/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hugodesouza-leite/)](https://www.linkedin.com/in/hugodesouza-leite/)
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hugodsleite@gmail.com)](mailto:hugodsleite@gmail.com)
 
