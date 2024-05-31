@@ -11,7 +11,7 @@
 ### Technologies that I study/use:
 
 ![image](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![image]([https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white](https://img.shields.io/pypi/pyversions/:packageName))
+![image](https://img.shields.io/pypi/pyversions/:packageName)
 
 <hr>
 
