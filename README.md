@@ -1,9 +1,9 @@
 ![gif header](https://media.giphy.com/media/hC4ivYEwCLHCU/giphy.gif)
 
 # Welcome!
-## I am a Software analytics student. I love coding and interacting with technology!
+## I am a Software analytics. I love coding and interacting with technology!
 
-- Currently studying systems analysis!
+- Im a systems analysis!
 - Improving my programming skills everyday
 
 <hr>
