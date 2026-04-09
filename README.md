@@ -1,5 +1,3 @@
-![gif header](https://media.giphy.com/media/hC4ivYEwCLHCU/giphy.gif)
-
 # Welcome!
 ## I am a Software analytics. I love coding and interacting with technology!
 
